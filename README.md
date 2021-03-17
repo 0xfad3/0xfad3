@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My area of interest is mainly in programming languages, operating systems, game development and I do some art from time to time. I blog on https://0xfe11.github.io/.
+My area of interest is mainly in programming languages, operating systems, game development and I do some art from time to time. I blog on https://0xfad3.github.io/.
 
 <!--
 **0xfe11/0xfe11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

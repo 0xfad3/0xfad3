@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My area of interest is mainly in programming languages, operating systems, game development and I do some art from time to time. I blog on https://zhgoh.github.io/.
+[About](https://zhgoh.github.io/pages/about/index.html) | [Blog](https://zhgoh.github.io/) | [Projects](https://zhgoh.github.io/pages/projects/index.html)
 
 <!--
 **zhgoh/zhgoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

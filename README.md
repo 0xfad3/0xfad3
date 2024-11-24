@@ -6,8 +6,6 @@ Backend Engineer
 
 * 🌍  I'm based in Singapore
 * 🖥️  See my portfolio at [link](http://zhgoh.gitlab.io/pages/projects/index.html)
-* ✉️  You can contact me at [zihe.goh@gmail.com](mailto:zihe.goh@gmail.com)
-* 🤝  I'm open to collaborating on building trading systems
 
 ### Skills
 
